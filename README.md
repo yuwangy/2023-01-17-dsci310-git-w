@@ -13,3 +13,5 @@ Dsci 310 git demo
 
 - 'git push <where> <what>': take local commits on '<what>' ,, and pull it to '<where>'
 - e.g. , 'git pull origin main'
+- 'git push origin main' (e.g try running)
+
