@@ -16,8 +16,4 @@ Dsci 310 git demo
 - 'git push origin main' (e.g try running)
 git hub refresh
 
-- git hub push and git hub pull using origin main
-- git commit and git ignore demo
-
-
 
